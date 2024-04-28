@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+predict/
 
 # Spyder project settings
 .spyderproject

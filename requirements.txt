@@ -14,7 +14,6 @@ scipy
 Flask
 Flask-Cors
 #-e .
-#Did not istall 
 scikit-learn
 #catboost
 xgboost
